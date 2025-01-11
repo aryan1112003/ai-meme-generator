@@ -2,7 +2,7 @@
 
 A powerful web application that combines artificial intelligence with meme creation. Generate hilarious and creative memes using Google's Gemini AI for captions and Imgflip's extensive template collection.
 
-![AI Meme Generator Preview](https://source.unsplash.com/featured/?meme,ai,funny)
+![image](https://github.com/user-attachments/assets/f72f37d2-2660-4b13-83cf-26c92b723123)
 
 ## ✨ Features
 
