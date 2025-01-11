@@ -2,7 +2,7 @@
 
 A powerful web application that combines artificial intelligence with meme creation. Generate hilarious and creative memes using Google's Gemini AI for captions and Imgflip's extensive template collection.
 
-![AI Meme Generator Preview](https://source.unsplash.com/random/1200x630/?meme,ai)
+![AI Meme Generator Preview](https://source.unsplash.com/featured/?meme,ai,funny)
 
 ## ✨ Features
 
@@ -42,6 +42,11 @@ A powerful web application that combines artificial intelligence with meme creat
 - Direct meme downloads
 - Social media sharing integration
 - High-quality image export
+
+## 🚀 Live Demo
+
+Experience the AI Meme Generator in action:  
+[🌐 AI Meme Generator Live Demo](https://gentle-squirrel-212dfb.netlify.app/)
 
 ## 🚀 Getting Started
 
@@ -146,17 +151,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Aryan Acharya**
-- GitHub: [aryan1112003](https://github.com/aryan1112003)
+**Aryan Acharya**  
+- GitHub: [aryan1112003](https://github.com/aryan1112003)  
 - LinkedIn: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 
 ## 🙏 Acknowledgments
 
-- [Google Gemini AI](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini) for AI caption generation
-- [Imgflip API](https://api.imgflip.com/) for meme template and generation services
-- [Lucide Icons](https://lucide.dev/) for beautiful UI icons
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- All contributors and supporters of this project
+- [Google Gemini AI](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini) for AI caption generation  
+- [Imgflip API](https://api.imgflip.com/) for meme template and generation services  
+- [Lucide Icons](https://lucide.dev/) for beautiful UI icons  
+- [Tailwind CSS](https://tailwindcss.com/) for styling  
+- All contributors and supporters of this project  
 
 ---
 
